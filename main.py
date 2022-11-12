@@ -1,1 +1,2 @@
 pritn("hello")
+print("gg")
