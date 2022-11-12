@@ -1,2 +1,2 @@
-pritn("hello")
+print("hello")
 print("gg")
